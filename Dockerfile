@@ -1,1 +1,1 @@
-FROM ubutu
+FROM node
